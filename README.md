@@ -38,13 +38,15 @@ Whether you're building time-tracking applications, writing stories about time t
    cd time-trickster
    ```
 
-2. **Explore the assets:**
+2. **Explore the assets (coming soon):**
+   
+   This repository is actively growing! Here's what you'll be able to explore once the directories are created:
    - Browse the [`prompts/`](prompts/) directory for creative prompts
    - Check [`assets/`](assets/) for character resources
    - Review [`templates/`](templates/) for reusable templates
    - Read [`docs/`](docs/) for detailed documentation
    
-   > **Note:** Some directories are being developed and will be added in future updates. Check back soon or contribute to help build them!
+   > **Want to contribute?** Help us build these directories! See [Contributing](#contributing) below.
 
 3. **Use in your project:**
    - Copy prompts and adapt them to your needs
@@ -71,19 +73,23 @@ time-trickster/
 
 ### Key Files & Directories
 
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Learn how to contribute to this project
-- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Our community guidelines
-- **[docs/](docs/)** - In-depth documentation about the timekeeper character
-- **[prompts/](prompts/)** - Ready-to-use prompts for creative applications
-- **[assets/](assets/)** - Visual and textual character resources
-- **[templates/](templates/)** - Templates for building time-themed applications
+> **Note:** The following files and directories are planned for future development. We welcome contributions to help build them!
+
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Learn how to contribute to this project *(coming soon)*
+- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Our community guidelines *(coming soon)*
+- **[docs/](docs/)** - In-depth documentation about the timekeeper character *(coming soon)*
+- **[prompts/](prompts/)** - Ready-to-use prompts for creative applications *(coming soon)*
+- **[assets/](assets/)** - Visual and textual character resources *(coming soon)*
+- **[templates/](templates/)** - Templates for building time-themed applications *(coming soon)*
 
 ## 💡 Usage Examples
 
 ### Example 1: Using a Timekeeper Prompt
 
+Here's an example of how a timekeeper prompt might look:
+
 ```markdown
-# From prompts/timekeeper-intro.md
+# Example prompt (from prompts/timekeeper-intro.md)
 
 You are the Time Trickster, a mischievous yet wise character who understands
 the fluid nature of time. When users ask about time, respond with playful
@@ -102,7 +108,7 @@ Use the templates in [`templates/`](templates/) as starting points for:
 
 ### Example 3: Contributing Your Own Prompts
 
-Have an idea for a time-related prompt? See our [Contributing Guide](CONTRIBUTING.md) to learn how to add it to the repository!
+Have an idea for a time-related prompt? Start contributing to help build this repository!
 
 ## 🤝 Contributing
 
@@ -111,10 +117,12 @@ We welcome contributions from everyone! Whether you want to:
 - Add new prompts or character scenarios
 - Improve documentation
 - Create new templates
+- Create the CONTRIBUTING.md guide
+- Establish our CODE_OF_CONDUCT.md
 - Fix bugs or typos
 - Share creative ideas
 
-Please read our **[Contributing Guide](CONTRIBUTING.md)** to get started. Make sure to also review our **[Code of Conduct](CODE_OF_CONDUCT.md)** to understand our community values.
+This is an open canvas - help us build the time-trickster universe!
 
 ### Quick Contribution Steps
 
