@@ -18,6 +18,7 @@ Welcome to **Time Trickster** (also known as **timekeeper**)! This repository is
 - [License](#license)
 - [Community & Support](#community--support)
 - [Visual assets](https://www.cosmos.so/cosimosportinari/uto-tricksterhero)
+- [Slack Workspaace Channel](https://join.slack.com/t/cocreatorsuto/shared_invite/zt-3fd1eoi0n-0gGxB2EJ4gbMvRFl8gm_0A)
 
 ## 🎭 About the Project
 
