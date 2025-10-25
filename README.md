@@ -43,6 +43,8 @@ Whether you're building time-tracking applications, writing stories about time t
    - Check [`assets/`](assets/) for character resources
    - Review [`templates/`](templates/) for reusable templates
    - Read [`docs/`](docs/) for detailed documentation
+   
+   > **Note:** Some directories are being developed and will be added in future updates. Check back soon or contribute to help build them!
 
 3. **Use in your project:**
    - Copy prompts and adapt them to your needs
